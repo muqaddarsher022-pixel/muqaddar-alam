@@ -7,6 +7,3 @@ int result = num1~/num2;
 print (result);
 
 }
-catch(e){
-  print("this exception is handle");
-}
